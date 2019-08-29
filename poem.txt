@@ -3,7 +3,6 @@ players
 stoksey
 virat
 dhoni
-bumphra
 gayle
 archer
 
