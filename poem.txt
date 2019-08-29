@@ -1,9 +1,9 @@
 players
 
-stoksey
-virat
-dhoni
-gayle
-archer
+stoksey(RR)
+virat(RCB)
+dhoni(CSK)
+gayle(RCB)
+archer(RR)
 
 
