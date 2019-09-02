@@ -1,6 +1,15 @@
 players
 
+ipl
+stoksey(RR)
+virat(RCB)
+dhoni(CSK)
+gayle(RCB)
+archer(RR)
+gill(KKR)
+=======
 Sundhar(Tnpl)
-vipin(cbl)
+vipin(cbl) 
+master
 
 
